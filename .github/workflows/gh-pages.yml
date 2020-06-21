@@ -19,9 +19,15 @@ jobs:
         with:
           hugo-version: '0.71.1'
           extended: true
+          
+    
+      - name: Checkout submodules
+        uses: srt32/git-actions@v0.0.3
+        with:
+          args: git submodule update --init --recursive
 
       - name: Build
-        run: hugo -e production
+        run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
