@@ -1,14 +1,1 @@
-<urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xhtml="http://www.w3.org/1999/xhtml"
-    ><url>
-            <loc>https://anbu.essbase.dev/</loc><lastmod>2020-05-30T18:19:08&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>https://anbu.essbase.dev/install-groovy-in-linux/</loc><lastmod>2020-05-30T18:19:08&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>https://anbu.essbase.dev/posts/</loc><lastmod>2020-05-30T18:19:08&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
-            <loc>https://anbu.essbase.dev/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://anbu.essbase.dev/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://anbu.essbase.dev/tags/content/_index.fr/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://anbu.essbase.dev/categories/documentation/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://anbu.essbase.dev/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://anbu.essbase.dev/tags/installation/_index.zh-cn/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://anbu.essbase.dev/tags/configuration/_index.zh-cn/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://anbu.essbase.dev/</loc><lastmod>2020-05-30T18:19:08+05:30</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url><loc>https://anbu.essbase.dev/install-groovy-in-linux/</loc><lastmod>2020-05-30T18:19:08+05:30</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url><loc>https://anbu.essbase.dev/posts/</loc><lastmod>2020-05-30T18:19:08+05:30</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url><loc>https://anbu.essbase.dev/about/</loc><lastmod>2019-08-02T11:04:49+08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://anbu.essbase.dev/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://anbu.essbase.dev/tags/content/_index.fr/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://anbu.essbase.dev/categories/documentation/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://anbu.essbase.dev/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://anbu.essbase.dev/tags/installation/_index.zh-cn/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://anbu.essbase.dev/tags/configuration/_index.zh-cn/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
