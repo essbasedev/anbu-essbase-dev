@@ -128,9 +128,9 @@ enableEmoji = true
         # whether to use the absolute URL based on the baseURL in search index
         absoluteURL = false
         [languages.en.params.search.algolia]
-          index = "index.en"
-          appID = "PASDMWALPK"
-          searchKey = "b42948e51daaa93df92381c8e2ac0f93"
+          index = "anbu-essbase-dev"
+          appID = "6OLGE2MOEE"
+          searchKey = "2b39bf407ba2c45de924898c72a8a15c"
       # Home page config
       [languages.en.params.home]
         # amount of RSS pages
