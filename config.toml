@@ -310,7 +310,7 @@ enableEmoji = true
     paginate = 20
     # date format (month and day)
     # 日期格式 (月和日)
-    dateFormat = "2006-01-02"
+    dateFormat = "02-Jan"
     # amount of RSS pages
     # RSS 文章数目
     rss = 10
@@ -323,7 +323,7 @@ enableEmoji = true
     paginate = 20
     # date format (month and day)
     # 日期格式 (月和日)
-    dateFormat = "2006-01-02"
+    dateFormat = "02-Jan"
     # amount of RSS pages
     # RSS 文章数目
     rss = 10
