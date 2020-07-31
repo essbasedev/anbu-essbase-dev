@@ -110,7 +110,7 @@ groovysh
 command to trigger groovy terminal
 ```shell
 groovyConsole
-```shell
+```
 To run a specific Groovy script type:
 ```
 groovy filename.groovy
