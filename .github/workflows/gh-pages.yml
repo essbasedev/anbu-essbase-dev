@@ -26,6 +26,9 @@ jobs:
         with:
           args: git submodule update --init --recursive
 
+      - name: CNAME
+        run: mkdir -p public && echo "anbu.essbase.dev" > public/CNAME
+
       - name: Build
         run: hugo --minify
 
