@@ -228,7 +228,7 @@ enableEmoji = true
         XMPP = ""
         Matrix = ""
         Bilibili = ""
-        Email = "anbu.essbase.dev"
+        Email = "anbu@essbase.dev"
         RSS = true
         # [languages.en.params.social.Mastodon]
         #   id = "@xxxx"
