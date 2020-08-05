@@ -30,7 +30,7 @@ jobs:
         run: mkdir -p public && echo "anbu.essbase.dev" > public/CNAME
 
       - name: Build
-        run: hugo --minify
+        run: hugo
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
