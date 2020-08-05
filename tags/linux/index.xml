@@ -1,3 +1,17 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>linux - Tag - anbu's essbase blog</title><link>/tags/linux/</link><description>linux - Tag - anbu's essbase blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>anbu@essbase.dev (Anbuselvan)</managingEditor><webMaster>anbu@essbase.dev (Anbuselvan)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 30 May 2020 18:19:08 +0530</lastBuildDate><atom:link href="/tags/linux/" rel="self" type="application/rss+xml"/><item><title>Install Groovy in Linux</title><link>/install-groovy-in-linux/</link><pubDate>Sat, 30 May 2020 18:19:08 +0530</pubDate><author>Author</author><guid>/install-groovy-in-linux/</guid><description><![CDATA[<div class="featured-image">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>linux - Tag - anbu&#39;s essbase blog</title>
+        <link>/tags/linux/</link>
+        <description>linux - Tag - anbu&#39;s essbase blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>anbu@essbase.dev (Anbuselvan)</managingEditor>
+            <webMaster>anbu@essbase.dev (Anbuselvan)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 30 May 2020 18:19:08 &#43;0530</lastBuildDate><atom:link href="/tags/linux/" rel="self" type="application/rss+xml" /><item>
+    <title>Install Groovy in Linux</title>
+    <link>/install-groovy-in-linux/</link>
+    <pubDate>Sat, 30 May 2020 18:19:08 &#43;0530</pubDate>
+    <author>Author</author>
+    <guid>/install-groovy-in-linux/</guid>
+    <description><![CDATA[<div class="featured-image">
                 <img src="/images/groovy_on_linux.png" referrerpolicy="no-referrer">
-            </div><p>I use Linux Mint distro in my primary machine; the steps are given below to install groovy on that machine.  The steps are similar to the one explained here, which may have slight difference compare to the steps explained here.</p>]]></description></item></channel></rss>
+            </div><p>I use Linux Mint distro in my primary machine; the steps are given below to install groovy on that machine.  The steps are similar to the one explained here, which may have slight difference compare to the steps explained here.</p>]]></description>
+</item></channel>
+</rss>
